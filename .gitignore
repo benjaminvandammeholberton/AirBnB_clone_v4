@@ -1,2 +1,7 @@
 # Ignore Python __pycache__ directories
 __pycache__/
+
+venv2/
+
+venv_airbnb/
+
